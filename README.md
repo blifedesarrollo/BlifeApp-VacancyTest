@@ -9,8 +9,8 @@ Tiempo estimado de desarrollo : 30 min.
 Tiempo dedicado a comentarios : 10 min.
 
 Recursos: 
-Fake Store: https://fakestoreapi.com/
-http flutter library: https://pub.dev/packages/http
+- Fake Store: https://fakestoreapi.com/
+- http flutter library: https://pub.dev/packages/http
 
 Instrucciones:
 1. Consumir la API proporcionada para obtener la lista de productos.
